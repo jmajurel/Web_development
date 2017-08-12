@@ -1,0 +1,14 @@
+{
+  "name": "facebook",
+  "version": "1.0.0",
+  "description": "This is a first try to play with the Facebook API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "facebook"
+  ],
+  "author": "jfmajurel",
+  "license": "ISC"
+}
